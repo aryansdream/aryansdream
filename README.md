@@ -57,6 +57,8 @@ Network Intrusion Detection and Response. A Mininet test network with a Ryu/Open
 
 **Built with:** Python · Ryu · Mininet · OpenFlow · FastAPI · WebSockets
 
+**Repository project · No hosted demo**
+
 </td>
 <td width="50%" valign="top">
 
@@ -66,13 +68,15 @@ A hostel discovery and booking website with search by location and hostel type, 
 
 **Built with:** PHP · MySQL · HTML · CSS
 
+**Repository project · No hosted demo**
+
 </td>
 </tr>
 </table>
 
 ### Other projects
 
-I’m also working on **Jeevan Jyoti**. I’ll add its repository and a verified project description here once the link is available.
+**Jeevan Jyoti** is another project. It has no hosted demo link.
 
 ## Technologies
 
