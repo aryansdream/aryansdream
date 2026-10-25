@@ -44,7 +44,7 @@ A daily commitments and focus app with a searchable activity library, daily miss
 
 A culturally inspired interactive web experience, with transitions and ambient audio.
 
-**Project link:** Add the repository URL when available.
+[Live app →](https://digichhath.vercel.app)
 
 </td>
 </tr>
@@ -53,9 +53,9 @@ A culturally inspired interactive web experience, with transitions and ambient a
 
 ### 🛡️ [NIDR](https://github.com/aryansdream/NIDR)
 
-Network Intrusion Detection and Response. The current repository contains a Python/FastAPI prototype with SYN-rate and port-scan anomaly checks, live dashboard updates, and a simulated SDN flow table.
+Network Intrusion Detection and Response. A Mininet test network with a Ryu/OpenFlow controller detects TCP connection floods and port scans, then installs temporary drop rules. A FastAPI/WebSocket dashboard shows live events.
 
-**Current code:** Python · FastAPI · WebSockets
+**Built with:** Python · Ryu · Mininet · OpenFlow · FastAPI · WebSockets
 
 </td>
 <td width="50%" valign="top">
