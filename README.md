@@ -40,11 +40,11 @@ A daily commitments and focus app with a searchable activity library, daily miss
 </td>
 <td width="50%" valign="top">
 
-### 🌅 DigiChhath
+### 🌅 [DigiChhath](https://digichhath.vercel.app)
 
-A culturally inspired interactive web experience, with transitions and ambient audio.
+A digital sanctuary for Chhath Puja, guiding visitors through the four-day ritual journey, offering preparation, and prayer.
 
-[Live app →](https://digichhath.vercel.app)
+[Open the experience →](https://digichhath.vercel.app)
 
 </td>
 </tr>
