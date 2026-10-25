@@ -17,4 +17,4 @@ C · C++ · Python · Java · JavaScript · HTML · PHP · SQL · PostgreSQL · 
 
 - [LinkedIn](https://www.linkedin.com/in/aryan-tiwari-884906281/)
 - [Instagram](https://instagram.com/aryant1wari)
-- [Email](mailto:mydreams.aryan@gmail.com)
+- [Email](mailto:aryantiwari90605@gmail.com)
